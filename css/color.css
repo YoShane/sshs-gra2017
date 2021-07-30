@@ -1,0 +1,88 @@
+.theme-btn:hover,
+.accomodation:hover .description .theme-btn.btn-booknow,
+.date-rotate,
+.ceremony:hover .theme-btn.btn-addtocalendar,
+.person-details .social-icon li a:hover,
+#profile-pager .item:hover .person-head,
+#profile-pager .synced .item .person-head,
+#nav ul li .dropdown,
+.theme-btn.suggest-btn:hover,
+.po-prev:hover,
+.po-next:hover,
+.theme-btn.btn-submit:hover,
+#header{ background:#ce2e85;}
+.theme-btn.btn-iamin:hover,
+.theme-btn.btn-print:hover,
+.date-rotate,
+.ceremony:hover .theme-btn.btn-addtocalendar,
+.weather .page-head,
+.weather .page-head h2,
+.person-form,
+.person-form h3,
+#profile-pager .item:hover .person-head,
+#profile-pager .synced .item .person-head,
+#nav ul li a:hover,
+.payment-note a,
+.theme-btn.suggest-btn,
+.tags li a:hover,
+.theme-btn:hover{ color:#fff;}
+.event-info .event-detail,
+.theme-btn,
+.theme-btn:hover,
+.store-logo li a:hover,
+.theme-btn.btn-iamin:hover,
+.theme-btn.btn-print:hover,
+.ceremony:hover .theme-btn.btn-addtocalendar,
+.ceremony:hover,
+.ceremony:hover .round,
+#nav ul li{ border-color:#ce2e85;}
+.ceremony:hover:nth-child(even) .arrow-section:after{border-left-color: #ce2e85;}
+.ceremony:hover:nth-child(odd) .arrow-section:after{border-right-color: #ce2e85; }
+#main,
+.ceremony-timeline:after,
+.ceremony-timeline:before,
+.theme-btn{ background:#fff;}
+.closepersons .person-pic .img-hover,
+.form-suggest,
+.slider-caption .frame .border-title:after{ background:rgba(0,0,0,0.50);}
+#bar{background: #c87ba5;}
+#progressBar{background:rgba(255,255,255,0.5);}
+.slider-caption .frame span,
+.event-info h3,
+.theme-btn,
+.closepersons .item:hover .name,
+.weather .panel-heading a,
+.weather .panel-heading a:hover,
+.ceremony:hover .ceremony-date,
+.ceremony:hover .ceremony-title,
+.form-rsvp label:hover i.fa,
+.prev-post a:hover i,
+.prev-post a:hover em,
+.next-post a:hover i,
+.next-post a:hover em,
+.wellwisher-postmata,
+.wellwisher-postmata span a:hover,
+.date-reply .reply a:hover,
+.slider-caption .frame h1{ color:#ce2e85;}
+.event-info{background:#f7f7f7;}
+.jcf-select .jcf-select-text,
+.form-rsvp label,
+.prev-post a,
+.next-post a,
+.post-head .post-title a{ color:#414141;}
+.arrow-section .round{ border-color:#dedede;}
+#profile-pager .item .person-head,
+.form-rsvp select,
+.form-rsvp input[type="email"],
+.form-rsvp input[type="text"],
+.jcf-select,
+.form-rsvp .joining-persons label,
+.person-details{ background:#f6f6f6;}
+.rsvp-form .borderleft-title:after,
+.theme-btn.suggest-btn,
+.person-form{ background:#414141;}
+.pager-img .img-hover{background:rgba(65,65,65,0.80);}
+.form-attending .jcf-unselectable{
+	background:none;
+	border-bottom:1px solid #414141;
+}
